@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/cssnext/cssnext-loader",
   "dependencies": {
-    "cssnext": "^1.0.0",
+    "cssnext": "1.7.1",
     "loader-utils": "^0.2.5",
     "object-assign": "^2.0.0"
   },
